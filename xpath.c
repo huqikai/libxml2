@@ -13,7 +13,7 @@
  * Author: daniel@veillard.com
  *
  */
-
+##
 /* To avoid EBCDIC trouble when parsing on zOS */
 #if defined(__MVS__)
 #pragma convert("ISO8859-1")
